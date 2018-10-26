@@ -1,3 +1,4 @@
+<!--test-->
 window.evergageBeforeSiteConfigExecution = function() {
     try {
       ajq.loadScript = function (url, callback) {
